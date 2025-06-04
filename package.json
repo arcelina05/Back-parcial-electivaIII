@@ -15,5 +15,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Este proyecto implementa un backend con Node.js y Express que permite gestionar **roles** y **usuarios**, utilizando una base de datos local en SQLite.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcelina05/Back-parcial-electivaIII.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcelina05/Back-parcial-electivaIII/issues"
+  },
+  "homepage": "https://github.com/arcelina05/Back-parcial-electivaIII#readme"
 }

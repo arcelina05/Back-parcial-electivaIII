@@ -8,14 +8,14 @@ Este proyecto implementa un backend con Node.js y Express que permite gestionar 
 
 backend/
 ├── controllers/
-│ ├── roleController.js
+│ ├── rolController.js
 │ └── userController.js
 ├── db/
-│ └── initDatabase.js
+│ └── DB.js
 ├── routes/
-│ ├── roleRoutes.js
+│ ├── rolRoutes.js
 │ └── userRoutes.js
-├── user_roles_app.db # (se crea automáticamente)
+├── user_roles.db # (se crea automáticamente)
 ├── app.js
 └── server.js
 
@@ -26,4 +26,4 @@ npm install
 npm start
 
 Esto iniciará el backend en:
-http://localhost:3001
+http://localhost:5000
