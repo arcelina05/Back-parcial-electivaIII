@@ -1,10 +1,10 @@
-# 🧩 Gestión de Usuarios y Roles (Node.js + SQLite)
+# Gestión de Usuarios y Roles (Node.js + SQLite)
 
 Este proyecto implementa un backend con Node.js y Express que permite gestionar **roles** y **usuarios**, utilizando una base de datos local en SQLite.
 
 ---
 
-## 📁 Estructura del Proyecto
+##Estructura del Proyecto
 
 backend/
 ├── controllers/
